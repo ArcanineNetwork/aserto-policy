@@ -1,1 +1,5 @@
-# aserto-policy
+# policy-template
+
+Repository template for Aserto policy repos.
+
+
